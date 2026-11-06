@@ -1,0 +1,6 @@
+{
+  "name": "SMART AI HUB",
+  "description": "Next-generation mobile AI studio featuring AI Story Writer, AI Script Writer, AI Photo Generator, AI Voice Generator, AI Logo Maker, and AI Translator with instant exports and professional templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
